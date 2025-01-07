@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_4a5ncMzyEe-d2a9g4g0XyQ" comment="connectionComment" label="connectionLabel" dataPackage="_4a5ncczyEe-d2a9g4g0XyQ"/>
+  <TalendMetadata:GenericPackage xmi:id="_4a5ncczyEe-d2a9g4g0XyQ" dataManager="_4a5ncMzyEe-d2a9g4g0XyQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_4a5ncszyEe-d2a9g4g0XyQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4a5nc8zyEe-d2a9g4g0XyQ" name="movieId" id="12" label="movieId" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_4a6OgMzyEe-d2a9g4g0XyQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4a6OgczyEe-d2a9g4g0XyQ" name="title" id="13" label="title" length="52" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_4a6OgszyEe-d2a9g4g0XyQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4a6Og8zyEe-d2a9g4g0XyQ" name="genres" id="14" label="genres" length="43" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_4a6OhMzyEe-d2a9g4g0XyQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4a6OhczyEe-d2a9g4g0XyQ" name="yearReleased" id="348" label="yearReleased" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_4a6OhszyEe-d2a9g4g0XyQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
