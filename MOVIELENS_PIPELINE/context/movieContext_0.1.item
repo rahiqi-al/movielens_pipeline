@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_yBizUMzfEe-UOMzUo4lCmw" confirmationNeeded="false" hide="false" name="dev">
+    <contextParameter xmi:id="_yBizUczfEe-UOMzUo4lCmw" comment="" name="filesPath" prompt="filesPath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;C:\Users\Youcode\Desktop\ml-latest-small&quot;"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_yBizVMzfEe-UOMzUo4lCmw" confirmationNeeded="false" hide="false" name="test">
+    <contextParameter xmi:id="_yBizVczfEe-UOMzUo4lCmw" comment="" name="filesPath" prompt="filesPath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;C:\Users\Youcode\Desktop\ml-latest-small&quot;"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_yBizWMzfEe-UOMzUo4lCmw" confirmationNeeded="false" hide="false" name="prod">
+    <contextParameter xmi:id="_yBizWczfEe-UOMzUo4lCmw" comment="" name="filesPath" prompt="filesPath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;C:\Users\Youcode\Desktop\ml-latest-small&quot;"/>
+  </talendfile:ContextType>
+</xmi:XMI>
