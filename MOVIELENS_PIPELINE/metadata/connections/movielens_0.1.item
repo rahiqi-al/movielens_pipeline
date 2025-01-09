@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_4O0XUM5zEe-WK91nCfKG2A" name="movielens" id="_m3yPgM5yEe-WK91nCfKG2A" label="movielens" dataPackage="_4Q_hkM5zEe-WK91nCfKG2A" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://localhost:1433/pipeline_movies;" dbVersionString="JTDS" Port="1433" Username="sa" Password="enc:system.encryption.key.v1:yBHaZT3QDphbEEtFrgQ8UwPfCqMCUyySyPh4f8xQQw==" ServerName="localhost" DatasourceName="" FileFieldName="" SID="pipeline_movies" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="dbo" supportNLS="false">
+    <taggedValue xmi:id="_4O0XUc5zEe-WK91nCfKG2A" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_4PP1IM5zEe-WK91nCfKG2A" tag="package filter" value=""/>
+    <taggedValue xmi:id="_4PiJAM5zEe-WK91nCfKG2A" tag="Status" value=""/>
+    <taggedValue xmi:id="_4PiJAc5zEe-WK91nCfKG2A" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_4PiJAs5zEe-WK91nCfKG2A" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_4PiJA85zEe-WK91nCfKG2A" tag="Description" value=""/>
+    <taggedValue xmi:id="_4PiJBM5zEe-WK91nCfKG2A" tag="Author" value=""/>
+    <taggedValue xmi:id="_4PiJBc5zEe-WK91nCfKG2A" tag="otherParameter"/>
+    <taggedValue xmi:id="_4P8YsM5zEe-WK91nCfKG2A" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_4P8Ysc5zEe-WK91nCfKG2A" tag="DB ProductVersion" value="12.00.2000"/>
+    <taggedValue xmi:id="_4P8Yss5zEe-WK91nCfKG2A" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_4O0XUs5zEe-WK91nCfKG2A" key="CONN_PARA_KEY_USERNAME" value="sa"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_4Q_hkM5zEe-WK91nCfKG2A" name="pipeline_movies" dataManager="_4O0XUM5zEe-WK91nCfKG2A">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_4RAIoM5zEe-WK91nCfKG2A" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
